@@ -1,0 +1,6 @@
+path: /Users/dhirenthakur/Documents/Face_detection/data
+train: images
+val: images
+
+names:
+   0: dhiren
