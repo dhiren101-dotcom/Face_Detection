@@ -1,21 +1,17 @@
-# Ignore all images in the dataset
+
 data/images
 
-# Ignore YOLO labels if needed
 
-
-# Ignore YOLO training runs and results
 runs/detect
 
-# Ignore model weights
 *.pt
 *.weights
 
-# Ignore Python cache files
+
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignore virtual environment
+
 yolonewenv
